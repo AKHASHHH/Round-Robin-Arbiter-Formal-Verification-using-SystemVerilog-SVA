@@ -1,0 +1,30 @@
+# Synopsys VC Formal / VC Static generated files
+vcf.log
+vcf.log.*
+vcst_command.log
+vcst_rtdb/
+vcst_rtdb.bak/
+*_learn_dir/
+
+# Verdi / Novas generated files
+novas.conf
+novas.rc
+*.fsdb
+*.fsdb.*
+*.kdb
+
+# VCS generated files
+sim/simv
+sim/simv.daidir/
+sim/csrc/
+sim/ucli.key
+sim/*.log
+
+# Generic generated files
+*.log
+*.bak
+*.key
+
+# Editor / OS files
+*~
+.DS_Store
