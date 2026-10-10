@@ -355,3 +355,13 @@ testing manually selected scenarios.
 The intentional bug-injection experiment also demonstrates how targeted
 functional and fairness properties can detect errors that simpler properties
 such as mutual exclusion, grant validity, and basic progress may still allow.
+
+---
+
+## 👤 Author
+
+---
+
+**D. Akhash Krishna**
+
+GitHub: [Round-Robin-Arbiter-Formal-Verification-using-SystemVerilog-SVA](https://github.com/AKHASHHH/Round-Robin-Arbiter-Formal-Verification-using-SystemVerilog-SVA)
