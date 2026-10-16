@@ -1,5 +1,9 @@
 # Formal Verification of a 4-Requester Round-Robin Arbiter
 
+<p align="center"><strong>Formal verification · SVA · Bounded fairness · VC Formal</strong></p>
+
+<p align="center"><a href="#project-overview">Overview</a> &nbsp;·&nbsp; <a href="#architecture">Architecture</a> &nbsp;·&nbsp; <a href="#verification-methodology">Methodology</a> &nbsp;·&nbsp; <a href="#formal-verification-results">Proof results</a> &nbsp;·&nbsp; <a href="#counterexample-driven-debugging">Debugging</a> &nbsp;·&nbsp; <a href="#formal-flow">Formal flow</a> &nbsp;·&nbsp; <a href="#-author">Author</a></p>
+
 A SystemVerilog implementation and formal verification environment for a
 4-requester round-robin arbiter using **SystemVerilog Assertions (SVA)** and
 **Synopsys VC Formal**.
